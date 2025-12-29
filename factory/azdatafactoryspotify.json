@@ -1,0 +1,9 @@
+{
+	"name": "azdatafactoryspotify",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "337f6a5b-ce55-47ad-8ae4-d4cf9e437561",
+		"tenantId": "5e94396e-49a1-4d35-a8d1-974da50e09d7"
+	}
+}
